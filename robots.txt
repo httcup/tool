@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://httcup.github.io/tool/sitemap.xml
