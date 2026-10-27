@@ -1,0 +1,479 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>本地工具箱</title>
+  <subtitle>在浏览器本地运行的工具集</subtitle>
+  <link href="https://httcup.github.io/tool/feed.xml" rel="self"/>
+  <link href="https://httcup.github.io/tool/"/>
+  <id>https://httcup.github.io/tool/</id>
+  <updated>2026-10-27T02:54:58Z</updated>
+  <author><name>httcup</name></author>
+  <entry>
+    <title type="text">本地工具箱</title>
+    <link href="https://httcup.github.io/tool/"/>
+    <id>https://httcup.github.io/tool/</id>
+    <updated>2026-10-27T02:54:58Z</updated>
+    <summary type="text">在浏览器本地运行的 70 个工具，文件不上传。</summary>
+  </entry>
+  <entry>
+    <title type="text">图片压缩</title>
+    <link href="https://httcup.github.io/tool/compress-image/"/>
+    <id>https://httcup.github.io/tool/compress-image/</id>
+    <updated>2026-10-27T02:54:58Z</updated>
+    <summary type="text">说个大小，剩下的它来算。</summary>
+  </entry>
+  <entry>
+    <title type="text">图片缩放</title>
+    <link href="https://httcup.github.io/tool/resize-image/"/>
+    <id>https://httcup.github.io/tool/resize-image/</id>
+    <updated>2026-10-27T02:54:58Z</updated>
+    <summary type="text">说个尺寸，拉个框，挑个格式。</summary>
+  </entry>
+  <entry>
+    <title type="text">图片拼版</title>
+    <link href="https://httcup.github.io/tool/image-layout/"/>
+    <id>https://httcup.github.io/tool/image-layout/</id>
+    <updated>2026-10-27T02:54:58Z</updated>
+    <summary type="text">把图片拼成拼贴、联系表或长条，留在本机。</summary>
+  </entry>
+  <entry>
+    <title type="text">HEIC 转 JPG</title>
+    <link href="https://httcup.github.io/tool/heic-to-jpg/"/>
+    <id>https://httcup.github.io/tool/heic-to-jpg/</id>
+    <updated>2026-10-27T02:54:58Z</updated>
+    <summary type="text">iPhone 拍的照片，换成什么都打得开的格式。</summary>
+  </entry>
+  <entry>
+    <title type="text">WebP 转 JPG</title>
+    <link href="https://httcup.github.io/tool/webp-to-jpg/"/>
+    <id>https://httcup.github.io/tool/webp-to-jpg/</id>
+    <updated>2026-10-27T02:54:58Z</updated>
+    <summary type="text">把网页保存的图片，变成所有软件仍然接受的格式。</summary>
+  </entry>
+  <entry>
+    <title type="text">PNG 转 WebP</title>
+    <link href="https://httcup.github.io/tool/png-to-webp/"/>
+    <id>https://httcup.github.io/tool/png-to-webp/</id>
+    <updated>2026-10-27T02:54:58Z</updated>
+    <summary type="text">同一张图片，常常减少三分之一体积，透明区域保持完整。</summary>
+  </entry>
+  <entry>
+    <title type="text">AVIF 转 JPG</title>
+    <link href="https://httcup.github.io/tool/avif-to-jpg/"/>
+    <id>https://httcup.github.io/tool/avif-to-jpg/</id>
+    <updated>2026-10-27T02:54:58Z</updated>
+    <summary type="text">把网站如今保存的格式，变成所有软件一直支持的格式。</summary>
+  </entry>
+  <entry>
+    <title type="text">证件照制作</title>
+    <link href="https://httcup.github.io/tool/id-photo/"/>
+    <id>https://httcup.github.io/tool/id-photo/</id>
+    <updated>2026-10-27T02:54:58Z</updated>
+    <summary type="text">选择支持的国家和证件。公布的要求与指导值均有标注。</summary>
+  </entry>
+  <entry>
+    <title type="text">图片堆栈</title>
+    <link href="https://httcup.github.io/tool/stack-images/"/>
+    <id>https://httcup.github.io/tool/stack-images/</id>
+    <updated>2026-10-27T02:54:58Z</updated>
+    <summary type="text">二十张变一张，不用传二十次，也不用 RAW 转换器。</summary>
+  </entry>
+  <entry>
+    <title type="text">图片涂黑与打码</title>
+    <link href="https://httcup.github.io/tool/redact-image/"/>
+    <id>https://httcup.github.io/tool/redact-image/</id>
+    <updated>2026-10-27T02:54:58Z</updated>
+    <summary type="text">你遮住的那块是从文件里删掉的，不是藏在文件里。</summary>
+  </entry>
+  <entry>
+    <title type="text">EXIF 查看与清除</title>
+    <link href="https://httcup.github.io/tool/exif-editor/"/>
+    <id>https://httcup.github.io/tool/exif-editor/</id>
+    <updated>2026-10-27T02:54:58Z</updated>
+    <summary type="text">看看一张照片把你交代了多少，然后删掉。</summary>
+  </entry>
+  <entry>
+    <title type="text">DICOM 阅片器</title>
+    <link href="https://httcup.github.io/tool/dicom-viewer/"/>
+    <id>https://httcup.github.io/tool/dicom-viewer/</id>
+    <updated>2026-10-27T02:54:58Z</updated>
+    <summary type="text">CT、MR、X 光和超声，连窗宽窗位、头信息和测量一起。</summary>
+  </entry>
+  <entry>
+    <title type="text">图片转 ICO</title>
+    <link href="https://httcup.github.io/tool/image-to-ico/"/>
+    <id>https://httcup.github.io/tool/image-to-ico/</id>
+    <updated>2026-10-27T02:54:58Z</updated>
+    <summary type="text">进去一张图，出来的是浏览器、Windows 和 Mac 各自要的每一个尺寸。</summary>
+  </entry>
+  <entry>
+    <title type="text">图片转 Data URI</title>
+    <link href="https://httcup.github.io/tool/image-to-data-uri/"/>
+    <id>https://httcup.github.io/tool/image-to-data-uri/</id>
+    <updated>2026-10-27T02:54:58Z</updated>
+    <summary type="text">整张图变成一行文本，直接粘进 CSS 或者 HTML。</summary>
+  </entry>
+  <entry>
+    <title type="text">SVG 转图片</title>
+    <link href="https://httcup.github.io/tool/svg-to-image/"/>
+    <id>https://httcup.github.io/tool/svg-to-image/</id>
+    <updated>2026-10-27T02:54:58Z</updated>
+    <summary type="text">说个尺寸。矢量图本来就没有尺寸可丢。</summary>
+  </entry>
+  <entry>
+    <title type="text">图片转 SVG</title>
+    <link href="https://httcup.github.io/tool/image-to-svg/"/>
+    <id>https://httcup.github.io/tool/image-to-svg/</id>
+    <updated>2026-10-27T02:54:58Z</updated>
+    <summary type="text">一个形状，一条轮廓。不该有的东西，点一下就好。</summary>
+  </entry>
+  <entry>
+    <title type="text">身高对比图</title>
+    <link href="https://httcup.github.io/tool/compare-heights/"/>
+    <id>https://httcup.github.io/tool/compare-heights/</id>
+    <updated>2026-10-27T02:54:58Z</updated>
+    <summary type="text">把身高打进去，把图带走。为了画它，不会往外送任何东西。</summary>
+  </entry>
+  <entry>
+    <title type="text">商家资料预览</title>
+    <link href="https://httcup.github.io/tool/business-profile-preview/"/>
+    <id>https://httcup.github.io/tool/business-profile-preview/</id>
+    <updated>2026-10-27T02:54:58Z</updated>
+    <summary type="text">把内容打进去，它就变成 Google 会画的那张卡片。为了画它，不会往外送任何东西。</summary>
+  </entry>
+  <entry>
+    <title type="text">视频压缩</title>
+    <link href="https://httcup.github.io/tool/compress-video/"/>
+    <id>https://httcup.github.io/tool/compress-video/</id>
+    <updated>2026-10-27T02:54:58Z</updated>
+    <summary type="text">说一个它最多能有多大。剩下的工具来算，做完先量一遍再交给你。</summary>
+  </entry>
+  <entry>
+    <title type="text">MP4 转换</title>
+    <link href="https://httcup.github.io/tool/convert-to-mp4/"/>
+    <id>https://httcup.github.io/tool/convert-to-mp4/</id>
+    <updated>2026-10-27T02:54:58Z</updated>
+    <summary type="text">不管从录屏、压制还是相机里出来的是什么，都变成 MP4 里的 H.264 和 AAC。能复制的原样复制，非改不可的才重新编码。</summary>
+  </entry>
+  <entry>
+    <title type="text">视频旋转</title>
+    <link href="https://httcup.github.io/tool/rotate-video/"/>
+    <id>https://httcup.github.io/tool/rotate-video/</id>
+    <updated>2026-10-27T02:54:58Z</updated>
+    <summary type="text">转四分之一圈、半圈，或者往另一边转。使用文件头旋转时，每一帧画面保持原样。</summary>
+  </entry>
+  <entry>
+    <title type="text">图片转视频</title>
+    <link href="https://httcup.github.io/tool/images-to-video/"/>
+    <id>https://httcup.github.io/tool/images-to-video/</id>
+    <updated>2026-10-27T02:54:58Z</updated>
+    <summary type="text">一个文件夹的图片，变成一段视频。</summary>
+  </entry>
+  <entry>
+    <title type="text">视频剪切</title>
+    <link href="https://httcup.github.io/tool/trim-video/"/>
+    <id>https://httcup.github.io/tool/trim-video/</id>
+    <updated>2026-10-27T02:54:58Z</updated>
+    <summary type="text">一边看一边标出要留的段落，最后拿回一个视频。</summary>
+  </entry>
+  <entry>
+    <title type="text">视频裁剪</title>
+    <link href="https://httcup.github.io/tool/crop-video/"/>
+    <id>https://httcup.github.io/tool/crop-video/</id>
+    <updated>2026-10-27T02:54:58Z</updated>
+    <summary type="text">把片子切到只剩要紧的那块。</summary>
+  </entry>
+  <entry>
+    <title type="text">视频倒放</title>
+    <link href="https://httcup.github.io/tool/reverse-video/"/>
+    <id>https://httcup.github.io/tool/reverse-video/</id>
+    <updated>2026-10-27T02:54:58Z</updated>
+    <summary type="text">最后一帧排在最前，连声音一起。</summary>
+  </entry>
+  <entry>
+    <title type="text">延时视频</title>
+    <link href="https://httcup.github.io/tool/timelapse-video/"/>
+    <id>https://httcup.github.io/tool/timelapse-video/</id>
+    <updated>2026-10-27T02:54:58Z</updated>
+    <summary type="text">一小时的素材，二十秒看完。</summary>
+  </entry>
+  <entry>
+    <title type="text">视频截帧</title>
+    <link href="https://httcup.github.io/tool/grab-frame/"/>
+    <id>https://httcup.github.io/tool/grab-frame/</id>
+    <updated>2026-10-27T02:54:58Z</updated>
+    <summary type="text">任意位置，一张原画质静帧。</summary>
+  </entry>
+  <entry>
+    <title type="text">GIF 转 MP4</title>
+    <link href="https://httcup.github.io/tool/gif-to-mp4/"/>
+    <id>https://httcup.github.io/tool/gif-to-mp4/</id>
+    <updated>2026-10-27T02:54:58Z</updated>
+    <summary type="text">每一帧都带着 GIF 给它的延时，变成 MP4 里的 H.264。在你的机器上转，文件从不上传。</summary>
+  </entry>
+  <entry>
+    <title type="text">视频转 GIF</title>
+    <link href="https://httcup.github.io/tool/video-to-gif/"/>
+    <id>https://httcup.github.io/tool/video-to-gif/</id>
+    <updated>2026-10-27T02:54:58Z</updated>
+    <summary type="text">挑好段落、尺寸和帧率。</summary>
+  </entry>
+  <entry>
+    <title type="text">GIF 制作</title>
+    <link href="https://httcup.github.io/tool/gif-maker/"/>
+    <id>https://httcup.github.io/tool/gif-maker/</id>
+    <updated>2026-10-27T02:54:58Z</updated>
+    <summary type="text">把一组图片变成一段动画。</summary>
+  </entry>
+  <entry>
+    <title type="text">GIF 拆帧</title>
+    <link href="https://httcup.github.io/tool/split-gif/"/>
+    <id>https://httcup.github.io/tool/split-gif/</id>
+    <updated>2026-10-27T02:54:58Z</updated>
+    <summary type="text">每一帧都单独存成一张 PNG。</summary>
+  </entry>
+  <entry>
+    <title type="text">GIF 分析</title>
+    <link href="https://httcup.github.io/tool/gif-analyzer/"/>
+    <id>https://httcup.github.io/tool/gif-analyzer/</id>
+    <updated>2026-10-27T02:54:58Z</updated>
+    <summary type="text">帧、延时、调色板，以及每个字节的去向。</summary>
+  </entry>
+  <entry>
+    <title type="text">PDF 合并与拆分</title>
+    <link href="https://httcup.github.io/tool/merge-pdf/"/>
+    <id>https://httcup.github.io/tool/merge-pdf/</id>
+    <updated>2026-10-27T02:54:58Z</updated>
+    <summary type="text">挪动页面，不用往服务器跑一趟。</summary>
+  </entry>
+  <entry>
+    <title type="text">PDF 压缩</title>
+    <link href="https://httcup.github.io/tool/compress-pdf/"/>
+    <id>https://httcup.github.io/tool/compress-pdf/</id>
+    <updated>2026-10-27T02:54:58Z</updated>
+    <summary type="text">文档变小，不用送去任何地方。</summary>
+  </entry>
+  <entry>
+    <title type="text">PDF 解锁</title>
+    <link href="https://httcup.github.io/tool/unlock-pdf/"/>
+    <id>https://httcup.github.io/tool/unlock-pdf/</id>
+    <updated>2026-10-27T02:54:58Z</updated>
+    <summary type="text">权限限制与打开密码不同。页面会说明你的 PDF 使用哪种保护。</summary>
+  </entry>
+  <entry>
+    <title type="text">PDF 加密</title>
+    <link href="https://httcup.github.io/tool/protect-pdf/"/>
+    <id>https://httcup.github.io/tool/protect-pdf/</id>
+    <updated>2026-10-27T02:54:58Z</updated>
+    <summary type="text">把文档锁上，而不是为了锁它先把它交给一个网站。</summary>
+  </entry>
+  <entry>
+    <title type="text">PDF 水印</title>
+    <link href="https://httcup.github.io/tool/watermark-pdf/"/>
+    <id>https://httcup.github.io/tool/watermark-pdf/</id>
+    <updated>2026-10-27T02:54:58Z</updated>
+    <summary type="text">一份写着自己去了哪里的扫描件，就没法悄悄再去别的地方。</summary>
+  </entry>
+  <entry>
+    <title type="text">PDF 涂黑</title>
+    <link href="https://httcup.github.io/tool/redact-pdf/"/>
+    <id>https://httcup.github.io/tool/redact-pdf/</id>
+    <updated>2026-10-27T02:54:58Z</updated>
+    <summary type="text">字从文件里删掉，然后再搜一遍这个文件来证明。</summary>
+  </entry>
+  <entry>
+    <title type="text">PDF 转 CSV</title>
+    <link href="https://httcup.github.io/tool/pdf-to-csv/"/>
+    <id>https://httcup.github.io/tool/pdf-to-csv/</id>
+    <updated>2026-10-27T02:54:58Z</updated>
+    <summary type="text">将检测到的 PDF 文本表格转换成电子表格可打开的行。</summary>
+  </entry>
+  <entry>
+    <title type="text">收据与发票识别</title>
+    <link href="https://httcup.github.io/tool/receipt-invoice-extractor/"/>
+    <id>https://httcup.github.io/tool/receipt-invoice-extractor/</id>
+    <updated>2026-10-27T02:54:58Z</updated>
+    <summary type="text">读取照片，检查字段和裁剪结果，准备供邮件应用使用的压缩附件和合计。</summary>
+  </entry>
+  <entry>
+    <title type="text">图片转 PDF</title>
+    <link href="https://httcup.github.io/tool/images-to-pdf/"/>
+    <id>https://httcup.github.io/tool/images-to-pdf/</id>
+    <updated>2026-10-27T02:54:58Z</updated>
+    <summary type="text">把你的图片装进一个文档。</summary>
+  </entry>
+  <entry>
+    <title type="text">文档扫描</title>
+    <link href="https://httcup.github.io/tool/document-scanner/"/>
+    <id>https://httcup.github.io/tool/document-scanner/</id>
+    <updated>2026-10-27T02:54:58Z</updated>
+    <summary type="text">把纸拍下来，回来的是一份看着像扫描的东西。</summary>
+  </entry>
+  <entry>
+    <title type="text">从视频里提取音频</title>
+    <link href="https://httcup.github.io/tool/extract-audio-from-video/"/>
+    <id>https://httcup.github.io/tool/extract-audio-from-video/</id>
+    <updated>2026-10-27T02:54:58Z</updated>
+    <summary type="text">把视频拖进来，声音就取出来了。画面从不解码，也不上传任何东西。</summary>
+  </entry>
+  <entry>
+    <title type="text">音频剪辑</title>
+    <link href="https://httcup.github.io/tool/trim-audio/"/>
+    <id>https://httcup.github.io/tool/trim-audio/</id>
+    <updated>2026-10-27T02:54:58Z</updated>
+    <summary type="text">边听边标出值得留的段落。它们会合成一个文件回来，就切在你说的位置。</summary>
+  </entry>
+  <entry>
+    <title type="text">音频编辑</title>
+    <link href="https://httcup.github.io/tool/edit-audio/"/>
+    <id>https://httcup.github.io/tool/edit-audio/</id>
+    <updated>2026-10-27T02:54:58Z</updated>
+    <summary type="text">倒着放、快慢随你调、把录轻了的声音提上来，全在你这台机器上。</summary>
+  </entry>
+  <entry>
+    <title type="text">JSON 格式化</title>
+    <link href="https://httcup.github.io/tool/json-formatter/"/>
+    <id>https://httcup.github.io/tool/json-formatter/</id>
+    <updated>2026-10-27T02:54:58Z</updated>
+    <summary type="text">JSON、XML、HTML、CSS 和 YAML，格式化或转换。没有一个字被贴进别人的服务器。</summary>
+  </entry>
+  <entry>
+    <title type="text">YAML 转 JSON</title>
+    <link href="https://httcup.github.io/tool/yaml-to-json/"/>
+    <id>https://httcup.github.io/tool/yaml-to-json/</id>
+    <updated>2026-10-27T02:54:58Z</updated>
+    <summary type="text">两个方向都有，而且会告诉你各自的代价。这些都不会粘进别人的服务器。</summary>
+  </entry>
+  <entry>
+    <title type="text">XML 格式化</title>
+    <link href="https://httcup.github.io/tool/xml-formatter/"/>
+    <id>https://httcup.github.io/tool/xml-formatter/</id>
+    <updated>2026-10-27T02:54:58Z</updated>
+    <summary type="text">排开了好读的 XML，压平了好发的 XML，还有两个方向的 JSON 转换。这些都不会粘进别人的服务器。</summary>
+  </entry>
+  <entry>
+    <title type="text">文本比对</title>
+    <link href="https://httcup.github.io/tool/text-diff/"/>
+    <id>https://httcup.github.io/tool/text-diff/</id>
+    <updated>2026-10-27T02:54:58Z</updated>
+    <summary type="text">两段文本进来，每处差异都被标出来，逐行、逐词。没有一个字被贴进别人的服务器。</summary>
+  </entry>
+  <entry>
+    <title type="text">Base64 编码解码</title>
+    <link href="https://httcup.github.io/tool/base64/"/>
+    <id>https://httcup.github.io/tool/base64/</id>
+    <updated>2026-10-27T02:54:58Z</updated>
+    <summary type="text">Base64、百分号编码、HTML 实体、十六进制和反斜杠转义，双向都行。没有一个字被贴进别人的服务器。</summary>
+  </entry>
+  <entry>
+    <title type="text">二维码与条形码生成</title>
+    <link href="https://httcup.github.io/tool/qr-barcode/"/>
+    <id>https://httcup.github.io/tool/qr-barcode/</id>
+    <updated>2026-10-27T02:54:58Z</updated>
+    <summary type="text">打进去，就变成一个码。生成过程不往外送任何东西。</summary>
+  </entry>
+  <entry>
+    <title type="text">二维码与条形码识读</title>
+    <link href="https://httcup.github.io/tool/qr-barcode-reader/"/>
+    <id>https://httcup.github.io/tool/qr-barcode-reader/</id>
+    <updated>2026-10-27T02:54:58Z</updated>
+    <summary type="text">把摄像头对准码，或者把拍下来的图丢进来。读这件事只发生在这里，别处都没有。</summary>
+  </entry>
+  <entry>
+    <title type="text">哈希与校验和</title>
+    <link href="https://httcup.github.io/tool/hash-checksum/"/>
+    <id>https://httcup.github.io/tool/hash-checksum/</id>
+    <updated>2026-10-27T02:54:58Z</updated>
+    <summary type="text">把下载来的文件和发布方公布的那串数字对一下，不用把它发给任何人。</summary>
+  </entry>
+  <entry>
+    <title type="text">密码与密码短语生成器</title>
+    <link href="https://httcup.github.io/tool/password-generator/"/>
+    <id>https://httcup.github.io/tool/password-generator/</id>
+    <updated>2026-10-27T02:54:58Z</updated>
+    <summary type="text">在这里生成，由你自己的浏览器生成，不发往任何地方。什么都不保存，也没有历史记录。</summary>
+  </entry>
+  <entry>
+    <title type="text">文本与文件分享</title>
+    <link href="https://httcup.github.io/tool/share-text/"/>
+    <id>https://httcup.github.io/tool/share-text/</id>
+    <updated>2026-10-27T02:54:58Z</updated>
+    <summary type="text">从打开的浏览器加密分享文本与文件。默认直连，也可选择云中转。你可以逐一批准读者。</summary>
+  </entry>
+  <entry>
+    <title type="text">本地对讲机</title>
+    <link href="https://httcup.github.io/tool/walkie-talkie/"/>
+    <id>https://httcup.github.io/tool/walkie-talkie/</id>
+    <updated>2026-10-27T02:54:58Z</updated>
+    <summary type="text">建个频道，按住说话或免提；局域网直连或走云中转。</summary>
+  </entry>
+  <entry>
+    <title type="text">语音寻呼台</title>
+    <link href="https://httcup.github.io/tool/voice-oncall/"/>
+    <id>https://httcup.github.io/tool/voice-oncall/</id>
+    <updated>2026-10-27T02:54:58Z</updated>
+    <summary type="text">打开寻呼机就听到实时语音，可设密码、单独静音或移除。</summary>
+  </entry>
+  <entry>
+    <title type="text">远程摄像头</title>
+    <link href="https://httcup.github.io/tool/remote-camera/"/>
+    <id>https://httcup.github.io/tool/remote-camera/</id>
+    <updated>2026-10-27T02:54:58Z</updated>
+    <summary type="text">一台设备开摄像头，另一台浏览器观看，可要求批准。</summary>
+  </entry>
+  <entry>
+    <title type="text">分享浏览器标签页</title>
+    <link href="https://httcup.github.io/tool/share-tab/"/>
+    <id>https://httcup.github.io/tool/share-tab/</id>
+    <updated>2026-10-27T02:54:58Z</updated>
+    <summary type="text">把一个标签页分享给一位批准者，无需扩展、不传声音。</summary>
+  </entry>
+  <entry>
+    <title type="text">本地快用</title>
+    <link href="https://httcup.github.io/tool/quick/"/>
+    <id>https://httcup.github.io/tool/quick/</id>
+    <updated>2026-10-27T02:54:58Z</updated>
+    <summary type="text">编解码、哈希、时间戳等常用小工具。</summary>
+  </entry>
+  <entry>
+    <title type="text"></title>
+    <link href="https://httcup.github.io/tool/about/"/>
+    <id>https://httcup.github.io/tool/about/</id>
+    <updated>2026-10-27T02:54:58Z</updated>
+    <summary type="text"></summary>
+  </entry>
+  <entry>
+    <title type="text"></title>
+    <link href="https://httcup.github.io/tool/privacy/"/>
+    <id>https://httcup.github.io/tool/privacy/</id>
+    <updated>2026-10-27T02:54:58Z</updated>
+    <summary type="text"></summary>
+  </entry>
+  <entry>
+    <title type="text"></title>
+    <link href="https://httcup.github.io/tool/terms/"/>
+    <id>https://httcup.github.io/tool/terms/</id>
+    <updated>2026-10-27T02:54:58Z</updated>
+    <summary type="text"></summary>
+  </entry>
+  <entry>
+    <title type="text"></title>
+    <link href="https://httcup.github.io/tool/contact/"/>
+    <id>https://httcup.github.io/tool/contact/</id>
+    <updated>2026-10-27T02:54:58Z</updated>
+    <summary type="text"></summary>
+  </entry>
+  <entry>
+    <title type="text"></title>
+    <link href="https://httcup.github.io/tool/roadmap/"/>
+    <id>https://httcup.github.io/tool/roadmap/</id>
+    <updated>2026-10-27T02:54:58Z</updated>
+    <summary type="text"></summary>
+  </entry>
+  <entry>
+    <title type="text"></title>
+    <link href="https://httcup.github.io/tool/guides/"/>
+    <id>https://httcup.github.io/tool/guides/</id>
+    <updated>2026-10-27T02:54:58Z</updated>
+    <summary type="text"></summary>
+  </entry>
+</feed>
